@@ -1,1 +1,254 @@
-vsgdhjgvmjfgxhjf
+{
+   "AdsManager":{
+      "adNetwork" :"admob",
+      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "banner_admob":"ca-app-pub-3940256099942544/630097811",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+
+      "interstitial_fan":"IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
+      "banner_fan":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
+      "native_fan":"IMG_16_9_APP_INSTALL#465986095404427_474850511184652"
+   },
+   "Songs" :[
+      {
+         "song_name":"Track1",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=6638",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+      {
+         "song_name":"Track2",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=6639",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+      {
+         "song_name":"Track3",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=6640",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track4",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=6641",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track5",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=6642",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track6",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=6643",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track7",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=6644",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track8",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=6645",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track9",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=6646",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track10",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=6647",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track11",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=6648",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track12",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=6649",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track13",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5604",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track14",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5605",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track15",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5606",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track16",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5607",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track17",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5608",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track18",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5609",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track19",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5610",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track20",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5611",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track21",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5612",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track22",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5613",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+        {
+         "song_name":"Track23",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5614",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+           {
+         "song_name":"Track24",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5615",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+           {
+         "song_name":"Track25",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5616",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+           {
+         "song_name":"Track26",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5617",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+           {
+         "song_name":"Track27",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5618",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+           {
+         "song_name":"Track28",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5619",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+           {
+         "song_name":"Track29",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5620",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+       {
+         "song_name":"Track30",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5621",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+           {
+         "song_name":"Track31",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5622",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+           {
+         "song_name":"Track32",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5623",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+           {
+         "song_name":"Track33",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5624",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+           {
+         "song_name":"Track34",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5625",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+           {
+         "song_name":"Track35",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5626",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+           {
+         "song_name":"Track36",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5627",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+           {
+         "song_name":"Track37",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5628",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+           {
+         "song_name":"Track38",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5629",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+           {
+         "song_name":"Track39",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5630",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      },
+           {
+         "song_name":"Track40",
+         "artist":"hamid el kesri",
+         "song_link":"https://www.nozika.co/down.php?s_id=5631",
+         "image":"https://od.lk/s/NzJfNDMyMzcyNDFf/Black%20M.png"
+      }             
+   ]
+}
